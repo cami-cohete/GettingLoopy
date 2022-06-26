@@ -10,9 +10,19 @@ public class Main
         }
         System.out.println("");
 
+
         for (cnt = 30; cnt >=0; cnt--)
         {
             System.out.printf("%3d", cnt);
         }
+        System.out.println("");
+
+
+        for (cnt = 0; cnt <=18; cnt = cnt = cnt + 3)
+        {
+            System.out.printf("%3d", cnt);
+        }
+        System.out.println("");
+
     }
 }
