@@ -44,5 +44,16 @@ public class Main
             }
             System.out.println();
         }
+        System.out.println("");
+
+
+        for (int row = 0; row <= ROW; row++)
+        {
+            for (int col = row; col <= COL; col++)
+            {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
