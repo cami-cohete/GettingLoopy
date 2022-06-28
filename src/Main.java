@@ -55,5 +55,16 @@ public class Main
             }
             System.out.println();
         }
+        System.out.println("");
+
+
+        for (int row = 0; row <= ROW; row++)
+        {
+            for (int col = 0; col <= COL; col++)
+            {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }

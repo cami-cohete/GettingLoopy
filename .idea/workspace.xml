@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e7b5e6-6c79-4562-9a9a-8d3cd1dd57cb" name="Changes" comment="Part 1B of project.">
+    <list default="true" id="27e7b5e6-6c79-4562-9a9a-8d3cd1dd57cb" name="Changes" comment="Part 2B of project.">
+      <change afterPath="$PROJECT_DIR$/src/Fahrenheit_To_Celsius_Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +88,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Fahrenheit_To_Celsius_Converter">
+    <configuration name="Fahrenheit_To_Celsius_Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fahrenheit_To_Celsius_Converter" />
+      <module name="GettingLoopy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="GettingLoopy" />
@@ -90,8 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Fahrenheit_To_Celsius_Converter" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fahrenheit_To_Celsius_Converter" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -140,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656287294280</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Part 2B of project.">
+      <created>1656287505956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656287505956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +188,7 @@
     <MESSAGE value="Part 3A of project." />
     <MESSAGE value="Part 4A of project." />
     <MESSAGE value="Part 1B of project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 1B of project." />
+    <MESSAGE value="Part 2B of project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 2B of project." />
   </component>
 </project>
