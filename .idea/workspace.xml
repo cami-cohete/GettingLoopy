@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e7b5e6-6c79-4562-9a9a-8d3cd1dd57cb" name="Changes" comment="Part 2B of project.">
-      <change afterPath="$PROJECT_DIR$/src/Fahrenheit_To_Celsius_Converter.java" afterDir="false" />
+    <list default="true" id="27e7b5e6-6c79-4562-9a9a-8d3cd1dd57cb" name="Changes" comment="Part 8 of project.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -88,7 +87,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Fahrenheit_To_Celsius_Converter">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Fahrenheit_To_Celsius_Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fahrenheit_To_Celsius_Converter" />
       <module name="GettingLoopy" />
@@ -112,8 +111,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fahrenheit_To_Celsius_Converter" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Fahrenheit_To_Celsius_Converter" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656287505956</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Part 8 of project.">
+      <created>1656454770133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656454770133</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +195,7 @@
     <MESSAGE value="Part 4A of project." />
     <MESSAGE value="Part 1B of project." />
     <MESSAGE value="Part 2B of project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 2B of project." />
+    <MESSAGE value="Part 8 of project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 8 of project." />
   </component>
 </project>

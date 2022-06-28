@@ -66,5 +66,22 @@ public class Main
             }
             System.out.println();
         }
+        System.out.println("");
+
+        // Captial C for my initial. Extra Credit!
+
+        for (int topLine = 0; topLine <= 1; topLine++)
+        {
+            System.out.println("************");
+        }
+
+        for (int height = 0; height <= 5; height++)
+        {
+            System.out.println("***");
+        }
+        for (int bottomLine = 0; bottomLine <= 1; bottomLine++)
+        {
+            System.out.println("************");
+        }
     }
 }
